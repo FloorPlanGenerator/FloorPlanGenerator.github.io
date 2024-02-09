@@ -11,7 +11,7 @@ Data is only stored in the browser's local storage, so if you clear your cookies
 
 ## DEMO
 
-https://createcandle.github.io/homeRoughEditor/
+https://floorplangenerator.github.io/
 
 Start by clicking on the wall button, and then press and hold the mouse button to draw a wall.
 
@@ -28,17 +28,8 @@ Start by clicking on the wall button, and then press and hold the mouse button t
 
 ### Screenshot
 
-![Floorplanner example](screenshot.png?raw=true "Floorplanner example")
+![Floorplanner example](screenshot.png?raw=true "Floor plan example")
 
-### Other options / BETA
-- Add a CSS class called "developer" to the HTML body tag to see additional hidden options.
-- There is a layer list of objects, which allows you to quickly edit furniture. This is currently disabled.
-
-## License
-
-This project is based on [HomeRoughEditor Version 0.95](https://github.com/ekymoz/homeRoughEditor)
-
-It is available under the MIT License - see the [LICENSE.md](https://en.wikipedia.org/wiki/MIT_License) for details.
 
 
 
